@@ -1,85 +1,34 @@
-# 👋 Olá! Eu sou o Igo Melo
+<div align="center">
 
-## 📊 Analista de Business Intelligence | Dados Industriais | Power BI | Qlik Sense
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Igo%20Melo&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Business%20Intelligence%20|%20SQL%20|%20Power%20BI%20|%20Qlik%20Sense&descAlignY=70"/>
+** Analista de Business Intelligence **
 
-Sou Analista de BI com experiência em **Business Intelligence para indústria**, transformando dados em decisões estratégicas através de dashboards, automações e soluções em nuvem.
-
-Atualmente trabalho com indicadores industriais, produção, qualidade, logística e PPCP utilizando Power BI, Qlik Sense, SQL e Google Cloud Platform.
-
----
-
-## 🚀 Sobre mim
-
-- 📍 Ceará, Brasil.
-- 💼 Analista de BI Pleno.
-- 🎓 Pós-graduação Lato Sensu em Data Science.
-- 🏭 Experiência em indústria de grande porte.
-- 📈 Desenvolvimento de KPIs e dashboards executivos.
-- ☁️ Projetos com BigQuery e GCP.
-- ⚡ Automação de processos com Power Apps e Power Automate.
+Transformo dados em decisões através de dashboards, automações e análise de indicadores industriais.
+</div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+🚀 Tecnologias
 
-### BI & Analytics
-Power BI • Qlik Sense SaaS • Qlik Script • DAX • Power Query
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="SQL"/>
 
-### Banco de Dados
-SQL • BigQuery • DBeaver
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 
-### Cloud
-Google Cloud Platform • SharePoint • OneDrive
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-### Automação
-Power Apps • Power Automate • Excel VBA
+  <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white"/>
 
-### Linguagens
-SQL • Python • JavaScript (básico)
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+</p>
 
 ---
+📫 Contato
 
-## 📌 Projetos em Destaque
-
-### 📈 Dashboard Industrial - Power BI
-KPIs de Produção, OEE, OPE, perdas e eficiência.
-
-### ❄️ Indicadores de Qualidade - Qlik Sense
-Radar da Qualidade e monitoramento de ineficiências.
-
-### ☁️ Pipeline SharePoint → GCP
-Automação de ingestão para BigQuery utilizando Qlik e Google Cloud.
-
-### 📱 Power Apps - Controle de Treinamentos
-Aplicativo corporativo integrado ao SharePoint com leitura NFC.
-
----
-
-## 📚 Áreas de Conhecimento
-
-- Business Intelligence.
-- Data Visualization.
-- Engenharia de Dados (ETL).
-- PPCP e Supply Chain.
-- Indicadores Industriais.
-- Google BigQuery.
-- Automação Microsoft Power Platform.
-
----
-
-## 🌎 Vamos nos conectar?
-
-- 💼 LinkedIn
-- 📧 Email
-
----
-
-> "Dados contam histórias. Meu trabalho é transformá-las em decisões que geram resultado." 📊
+<p align="center">
+  <a href="(https://www.linkedin.com/in/igo-melo)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
